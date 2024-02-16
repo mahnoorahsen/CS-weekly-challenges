@@ -66,3 +66,11 @@ public class ComputeReadingLevel
 	
 
 }
+/*
+Output: 
+
+Enter some text to determine the approximate grade level needed for comprehension (use proper end punctuation).
+Text: Congratulations! Today is your day. You're off to Great Places! You're off and away!
+
+Readability Result: Grade 3
+*/
