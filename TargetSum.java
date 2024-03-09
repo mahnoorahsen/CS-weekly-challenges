@@ -133,3 +133,13 @@ public class TargetSum
     }
     
 }
+
+/*
+Output: 
+Enter an array of integers (separate them by spaces): 
+4 2 7 1 3 
+Enter the target sum: 
+10
+User array: [4, 2, 7, 1, 3]
+true
+*/
